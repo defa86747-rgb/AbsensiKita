@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Absensi Sekolah",
+  "description": "Aplikasi absensi guru dan siswa terintegrasi dengan Supabase",
+  "requestFramePermissions": []
+}
